@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyHabitTracker</string>
+    <string name="m1">What is your Hobby?</string>
+    <string name="m2">Duration:</string>
+    <string name="m3">Create</string>
+    <string name="m4">Enter Hobby name:</string>
+    <string name="m5">Display</string>
+
+
+</resources>
